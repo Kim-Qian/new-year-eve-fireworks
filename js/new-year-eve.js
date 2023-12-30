@@ -216,14 +216,14 @@ then({
 });
 
 const timelineText = new mojs.Timeline({
-    repeat: 2018
+    repeat: 2024
 }).
 
 add(underline).
 play();
 
 const timeline = new mojs.Timeline({
-    repeat: 2018
+    repeat: 2024
 }).
 
 add([firework_1, firework_2]).
